@@ -12,4 +12,4 @@
 
 <h1>Контрольні відповіді</h1>
 
-![ans](../doc/modulation-methods/ans)
+![ans](../../doc/modulation-methods/ans)

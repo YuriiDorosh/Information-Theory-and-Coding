@@ -1,6 +1,0 @@
-![1](../doc/amount-of-information/1)
-![2](../doc/amount-of-information/2)
-![3](../doc/amount-of-information/3)
-![4](../doc/amount-of-information/4)
-![5](../doc/amount-of-information/5)
-![6](../doc/amount-of-information/6)

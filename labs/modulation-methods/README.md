@@ -41,7 +41,6 @@
 
 ● Фазова модуляція (ФМ).
 
-![1](../doc/modulation-methods/1)
-![2](../doc/modulation-methods/2)
-![3](../doc/modulation-methods/3)
-![4](../doc/modulation-methods/4)
+![1](../../doc/modulation-methods/1)
+![2](../../doc/modulation-methods/2)
+![3](../../doc/modulation-methods/3)
