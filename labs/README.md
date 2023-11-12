@@ -2,3 +2,4 @@
 
 1. [Amount of Information](amount-of-information)
 2. [Modulation Methods](modulation-methods)
+3. [Frequency Modulation of a Continuous Signal](frequency-modulation-of-a-continuous-signal)
