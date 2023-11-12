@@ -1,0 +1,1 @@
+![1](../../doc/frequency-modulation-of-a-continuous-signal/task)
