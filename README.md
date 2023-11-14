@@ -6,6 +6,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/YuriiDorosh/Information-Theory-and-Coding)
 ![GitHub last commit](https://img.shields.io/github/last-commit/YuriiDorosh/Information-Theory-and-Coding)
 ![GitHub contributors](https://img.shields.io/github/contributors/YuriiDorosh/Information-Theory-and-Coding)
+
 ![GitHub stars](https://img.shields.io/github/stars/YuriiDorosh/Information-Theory-and-Coding?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/YuriiDorosh/Information-Theory-and-Coding?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/YuriiDorosh/Information-Theory-and-Coding?style=social)
