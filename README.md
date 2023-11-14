@@ -2,13 +2,19 @@
 
 [![View Counter](https://views.whatilearened.today/views/github/YuriiDorosh/Information-Theory-and-Coding.svg)](https://views.whatilearened.today/views/github/YuriiDorosh/Information-Theory-and-Coding)
 ![GitHub repo size](https://img.shields.io/github/repo-size/YuriiDorosh/Information-Theory-and-Coding)
+![GitHub License](https://img.shields.io/github/license/YuriiDorosh/Information-Theory-and-Coding)
 ![GitHub issues](https://img.shields.io/github/issues/YuriiDorosh/Information-Theory-and-Coding)
 ![GitHub last commit](https://img.shields.io/github/last-commit/YuriiDorosh/Information-Theory-and-Coding)
 ![GitHub contributors](https://img.shields.io/github/contributors/YuriiDorosh/Information-Theory-and-Coding)
+![GitHub stars](https://img.shields.io/github/stars/YuriiDorosh/Information-Theory-and-Coding?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YuriiDorosh/Information-Theory-and-Coding?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/YuriiDorosh/Information-Theory-and-Coding?style=social)
+
+
 
 This repository is dedicated to the study of Information Theory and Coding. Here, we explore the fundamental concepts and principles behind the transmission, storage, and processing of information, as well as the techniques used for efficient data representation through coding.
 
-## Technical Stack
+## 🛠 Technical Stack
 
 The project utilizes the following technologies:
 
@@ -65,3 +71,4 @@ If you have insights, corrections, or additional resources to contribute, please
 - [LinkedIn](https://www.linkedin.com/in/yurii-dorosh-0b2006281/) 😊
 - [Gmail](contact.yuriidorosh@gmail.com) 📧
 - [Telegram](https://t.me/s11nd8r) 🚀
+
