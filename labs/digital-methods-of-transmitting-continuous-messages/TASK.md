@@ -1,0 +1,1 @@
+![1](../../doc/digital-methods-of-transmitting-continuous-messages/task)
